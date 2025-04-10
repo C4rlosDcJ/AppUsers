@@ -38,7 +38,7 @@ export default function UserList() {
       <header className="sticky top-0 z-50 backdrop-blur-md bg-black/60 border-b border-green-400 shadow">
         <div className="max-w-7xl mx-auto px-6 py-4 flex justify-between items-center">
           <h1 className="text-2xl font-extrabold text-green-400 tracking-wider">
-            ⚡ AppUsers • Admin
+            ⚡ AppUsers • Admin DEV
           </h1>
           <div className="flex gap-3">
             <Link
